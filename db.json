@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "row": 3,
+      "name": "Orange",
+      "brand": "Minute Maid",
+      "category": "Beverages",
+      "price": 80,
+      "Description": "Freshly squeezed orange juice packed with vitamin C.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.DsdFEw2-2VUE_4Krmzo1agHaFj&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "4",
+      "row": 4,
+      "name": "Banana",
+      "brand": "Chiquita",
+      "category": "Fruits",
+      "price": 30,
+      "Description": "A healthy, potassium-rich snack that's great on the go.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.fq6VMNnUgGmrWCmjrE6WsQHaGG&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "5",
+      "row": 5,
+      "name": "Gulab Jamun",
+      "brand": "Haldiram's",
+      "category": "Sweets",
+      "price": 150,
+      "Description": "Soft, syrup-soaked traditional Indian sweet.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.KaEucM9OPPb6c9iYVar5UgHaJZ&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "6",
+      "row": 6,
+      "name": "Kurkure",
+      "brand": "bingo",
+      "category": "Snacks",
+      "price": 40,
+      "Description": "Crispy and spicy snack with a crunchy texture.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.eTT3w24Pb9S-JKIIw85AewHaKE&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "7",
+      "row": 7,
+      "name": "Lays Potato Chips",
+      "brand": "Lay's",
+      "category": "Snacks",
+      "price": 30,
+      "Description": "Crispy potato chips available in multiple flavors.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.x8W6RJryhiaswkoBAhzuCgHaHa&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "8",
+      "row": 8,
+      "name": "Good day",
+      "brand": "Britannia",
+      "category": "Biscuits",
+      "price": 25,
+      "Description": "Delicious biscuits for tea time.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.eou_GM3FsfDGJYpR0u3NAQHaHa&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "10",
+      "row": 10,
+      "name": "Pineapple",
+      "brand": "Dole",
+      "category": "Fruits",
+      "price": 60,
+      "Description": "A tropical fruit rich in vitamins and flavor.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.3yrzbKoKIgyR7eBhHma26AHaGm&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "11",
+      "row": 11,
+      "name": "Peach",
+      "brand": "Nature's Goodness",
+      "category": "Fruits",
+      "price": 80,
+      "Description": "Juicy, aromatic peach, perfect for desserts.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.2XvmogCPxclFRaxeAe3f1AHaHa&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "12",
+      "row": 12,
+      "name": "Onion",
+      "brand": "Fresh Farms",
+      "category": "Vegetables",
+      "price": 30,
+      "Description": "Fresh onions, perfect for cooking and garnishing.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.fyc8KbhhKksfo3p0W6blvAHaEt&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "13",
+      "row": 13,
+      "name": "Carrot",
+      "brand": "Organic Choice",
+      "category": "Vegetables",
+      "price": 40,
+      "Description": "Fresh and crunchy carrots, perfect for salads and cooking.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP._6l9ziwNMzBBHsXAzhxUogHaEh&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "14",
+      "row": 14,
+      "name": "Beetroot",
+      "brand": "Pure Veggies",
+      "category": "Vegetables",
+      "price": 35,
+      "Description": "Fresh beetroots rich in nutrients and flavor.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.orTWDkgY0-FFuGP1J8P6oQHaHa&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "15",
+      "row": 15,
+      "name": "Tomato",
+      "brand": "Farm Fresh",
+      "category": "Vegetables",
+      "price": 25,
+      "Description": "Ripe, juicy tomatoes for cooking or salads.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.8w5Bo_ZbDPW4Wv9B6Xb23gHaHa&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "16",
+      "row": 16,
+      "name": "Cucumber",
+      "brand": "Green Garden",
+      "category": "Vegetables",
+      "price": 20,
+      "Description": "Fresh cucumbers, perfect for salads and garnishes.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.VKG1qNp4bQnOTWVzO1DJiwHaEo&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "17",
+      "row": 17,
+      "name": "Potato",
+      "brand": "Golden Harvest",
+      "category": "Vegetables",
+      "price": 25,
+      "Description": "Fresh and firm potatoes for your kitchen needs.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.F0aQXnmCDGEadfNivihUAQHaF8&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-16"
+    },
+    {
+      "id": "c1b8",
+      "name": "Mango",
+      "brand": "Hybrid",
+      "category": "Fruit",
+      "price": "50",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.IY3LA8-7bAN5ZoIwXetvwQHaFj&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-10",
+      "row": 18
+    },
+    {
+      "id": "8d7c",
+      "name": "demo",
+      "brand": "demo",
+      "category": "demo",
+      "price": "40",
+      "image": "demo",
+      "creationDate": "2024-11-28",
+      "row": 19
+    },
+    {
+      "id": "6937",
+      "name": "watermelon",
+      "brand": "hybrid",
+      "category": "Fruit",
+      "price": "100",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.lkH9pwSB89Mq0OJ_v_rJAgHaFa&pid=Api&P=0&h=180",
+      "creationDate": "2024-11-24",
+      "row": 20
+    }
+  ],
+  "users": [
+    {
+      "id": "fbed",
+      "name": "pravallika",
+      "email": "prava@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "8017",
+      "name": "pravallika",
+      "email": "pravallika@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6dbf",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6c91",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "3104",
+      "name": "pravallika",
+      "email": "prava@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "fac1",
+      "name": "Team5",
+      "email": "prava@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7481",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1cb3",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "e55c",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c0f3",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "078e",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c6cf",
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "06de",
+      "name": "Team5",
+      "email": "team@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a7f3",
+      "name": "pravallika",
+      "email": "prava@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a871",
+      "name": "pravallika",
+      "email": "pravallika@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

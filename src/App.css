@@ -1,0 +1,84 @@
+/* Custom styles for search input */
+.search-input {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #00796b;
+  background-color: #f1f1f1;
+  transition: all 0.3s ease;
+}
+
+.search-input:focus {
+  border-color: #00796b;
+  box-shadow: 0 0 5px rgba(0, 123, 123, 0.5);
+}
+
+/* Custom styles for create button */
+.create-btn {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.create-btn:hover {
+  background-color: #004d40;
+  box-shadow: 0 0 10px rgba(0, 123, 123, 0.5);
+}
+
+/* Custom styles for product table */
+.table th, .table td {
+  padding: 12px 15px;
+  text-align: center;
+}
+
+.table {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.table thead {
+  background-color: #00796b;
+  color: white;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+/* Custom styles for the search input field */
+.search-input {
+  padding: 10px 15px;  /* Add padding for better spacing */
+  font-size: 1.1rem;  /* Slightly larger font size */
+  border-radius: 50px;  /* Rounded corners for a modern look */
+  border: 2px solid #00796b;  /* Green border */
+  background-color: #f9f9f9;  /* Light gray background */
+  transition: all 0.3s ease;  /* Smooth transition effect */
+  width: 100%;  /* Full width inside its container */
+  max-width: 400px;  /* Limit the max-width for responsiveness */
+}
+
+.search-input:focus {
+  border-color: #004d40;  /* Darker green border on focus */
+  box-shadow: 0 0 8px rgba(0, 123, 123, 0.5);  /* Shadow effect on focus */
+  background-color: #ffffff;  /* White background when focused */
+  outline: none;  /* Remove default outline */
+}
+
+/* Add padding on small screens */
+@media (max-width: 576px) {
+  .search-input {
+    padding: 8px 12px;
+  }
+}
+.green-border {
+  border: 2px solid green; /* Add a green border */
+  border-radius: 4px; /* Optional: rounded corners */
+  padding: 8px; /* Optional: adjust padding */
+}
+
